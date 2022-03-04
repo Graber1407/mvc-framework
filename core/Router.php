@@ -9,6 +9,7 @@ class Router
 
     public function __construct()
     {
+        $this->routes = [];
         $this->request = new Request();
     }
 

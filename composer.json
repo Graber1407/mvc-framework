@@ -2,7 +2,7 @@
     "name": "sulta/framework",
     "autoload": {
         "psr-4": {
-            "app\\": "core/"
+            "app\\": "./"
         }
     },
     "authors": [
