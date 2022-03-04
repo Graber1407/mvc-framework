@@ -1,0 +1,15 @@
+{
+    "name": "sulta/framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdullaev Alisultan",
+            "email": "sultan7306@mail.ru"
+        }
+    ],
+    "require": {}
+}
